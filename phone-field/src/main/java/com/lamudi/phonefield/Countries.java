@@ -51,8 +51,6 @@ public final class Countries {
     COUNTRIES.add(new Country("td", "Chad (Tchad)", 235));
     COUNTRIES.add(new Country("cl", "Chile", 56));
     COUNTRIES.add(new Country("cn", "China (中国)", 86));
-    COUNTRIES.add(new Country("cx", "Christmas Island", 61));
-    COUNTRIES.add(new Country("cc", "Cocos (Keeling) Islands", 61));
     COUNTRIES.add(new Country("co", "Colombia", 57));
     COUNTRIES.add(new Country("km", "Comoros (‫جزر القمر‬‎)", 269));
     COUNTRIES.add(new Country("cd", "Congo (DRC) (Jamhuri ya Kidemokrasia ya Kongo)", 243));
